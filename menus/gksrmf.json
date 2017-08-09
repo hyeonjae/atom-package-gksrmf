@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle gksrmf",
+        "command": "gksrmf:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "gksrmf",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "gksrmf:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
