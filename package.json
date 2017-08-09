@@ -1,7 +1,7 @@
 {
   "name": "gksrmf",
   "main": "./lib/gksrmf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "gksrmf -> 한글",
   "keywords": [
   ],
